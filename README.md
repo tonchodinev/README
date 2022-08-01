@@ -28,3 +28,6 @@
 
 <a href="https://softuni.bg/certificates/details/137359/948d0d64" target="_blank" rel="noreferrer"> 
    <img src="https://user-images.githubusercontent.com/106147027/180260179-e5302178-cfa9-44e3-9d03-9f6ed7bda134.png" alt="Certificate Logo" width="300" height="100" title="C# Basics Certificate"/></a> 
+   
+   <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/chosef17G"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chosef17G" /></a></p><br><br>
